@@ -1,0 +1,25 @@
+{
+    "intro":{
+        "title": "Welcome to CSS Playground!",
+        "description": "Here you´ll learn the basics of CSS such as changing the colors, height and width of objects and styling fonts. Feel free to try anything. If something breaks just press the Reset button and you´ll be fine."
+    },
+
+    "colors":{
+        "title": "Changing background colors!",
+        "description" : "You can change the background color of most elements with the 'background-color' property. The values that you can use are plain text colors like 'red' or 'black', or use the hexadecimal number that represent them. For example, the number of the color red is #ff0000 and the green´s one is #008000. Try any combination of six numbers and letters from 'a' to 'f' right after a '#' symbol to find any color you want... or use the color picker below.",
+        "task": "Try changing the rectangle color to blue with 'background-color: blue'"
+    },
+
+    "resizing":{
+        "title": "Resizing Stuff",
+        "description": "The base size properties of any element in HTML is its height and width. In CSS this can be modified with the 'height' and 'width' properties and any value with its respective unit. For example, by typing 'width: 20px' and 'height: 45px' the item will be 20 pixels wide and 45 pixels tall. Other units of measurement are percentage (%) and viewport (vh or vw), that will adjust the element to its container and to the device screen, respectively.",
+        "task": "Modify the rectangle size as much as you want. Try different units with different values."
+    },
+
+    "text":{
+        "title": "Font Styling",
+        "description": "Sometimes you´ll need to add some style to your texts. CSS provides a couple of properties that makes fonts a bit more appealing. To change the color of a text just use the 'color' property with a color value (just like backgrounds), to change its size use 'font-size' and any measurement unit, and to switch between bold and normal fonts just use the 'font-weight' property and any of those two. There are many other text modifiers so we encourage you to do some research and try different things!",
+        "task": "Make the text 20px big and change its color to red. Also make it bold."
+
+    }
+}
